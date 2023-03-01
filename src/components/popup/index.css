@@ -1,0 +1,7 @@
+#popUpWrapper {
+  position: fixed;
+  top: 16px;
+  right: 10px;
+  z-index: 1010;
+  /* pointer-events: none; */
+}
